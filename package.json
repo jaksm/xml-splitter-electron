@@ -1,0 +1,59 @@
+{
+  "name": "xml-parser",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Jaksa Malisic",
+  "homepage": "./",
+  "main": "public/electron.js",
+  "build": {
+    "appId": "com.example.electron-cra",
+    "files": [
+      "build/**/*",
+      "node_modules/**/*"
+    ],
+    "directories":{
+      "buildResources": "assets"
+    }
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1",
+    "electron-is-dev": "^1.1.0",
+    "react-dropzone": "^10.1.5",
+    "fast-xml-parser": "^3.12.16",
+    "he": "latest"
+  },
+  "devDependencies": {
+    "electron": "^5.0.3",
+    "electron-builder": "^20.43.0",
+    "wait-on": "^3.2.0",
+    "concurrently": "^4.1.0",
+    "prettier": "^1.18.2",
+    "typescript": "^3.5.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "electron-dev": "concurrently \"BROWSER=none yarn start\" \"wait-on http://localhost:3000 && electron .\"",
+    "electron-pack": "build -wl",
+    "preelectron-pack": "yarn build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
