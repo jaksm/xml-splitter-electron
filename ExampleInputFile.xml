@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="windows-1250" standalone="no"?> 
+<porudzbine>
+<porudzbinaDobavljac datum="22.04.2019" storeID="634" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126501">
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="40.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="10.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="10.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="20.00"/>
+<porudzbinaStavke ean="5010175805701" nazivArtikla="SOBRANIE WHITE RUS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100046773" nazivArtikla="Sobranie Refine White" kolicina="20.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="40.00"/>
+<porudzbinaStavke ean="40331928" nazivArtikla="WINSTON WHITE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="633" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126500">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900107882" nazivArtikla="MONTE CARLO AZURE 100S" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="630" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126499">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="20.00"/>
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="30.00"/>
+<porudzbinaStavke ean="4032900107882" nazivArtikla="MONTE CARLO AZURE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100046711" nazivArtikla="Sobranie Refine Black" kolicina="10.00"/>
+<porudzbinaStavke ean="42138068" nazivArtikla="WINSTON SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="629" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126498">
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="10.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="20.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="20.00"/>
+<porudzbinaStavke ean="5010175805701" nazivArtikla="SOBRANIE WHITE RUS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100046711" nazivArtikla="Sobranie Refine Black" kolicina="10.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="40.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="627" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126497">
+<porudzbinaStavke ean="4032900102351" nazivArtikla="CAMEL COMPACT 100s" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="10.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="42138037" nazivArtikla="WINSTON CLASSIC" kolicina="20.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="20.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="625" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126496">
+<porudzbinaStavke ean="40331614" nazivArtikla="CAMEL 100S BLUE" kolicina="50.00"/>
+<porudzbinaStavke ean="4033100053986" nazivArtikla="CAMEL ACTIVATE DOUBLE" kolicina="20.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100099595" nazivArtikla="CAMEL ORGINAL 30GR" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="50.00"/>
+<porudzbinaStavke ean="4032900107882" nazivArtikla="MONTE CARLO AZURE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100046711" nazivArtikla="Sobranie Refine Black" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100080357" nazivArtikla="WINSTON 100S BLUE SILVER (1242)" kolicina="40.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="20.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="20.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="60.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="40.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="621" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126495">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100073724" nazivArtikla="CAMEL COMPACT" kolicina="20.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="10.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="20.00"/>
+<porudzbinaStavke ean="5010175805701" nazivArtikla="SOBRANIE WHITE RUS" kolicina="10.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="40.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="42138037" nazivArtikla="WINSTON CLASSIC" kolicina="20.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="40331928" nazivArtikla="WINSTON WHITE" kolicina="50.00"/>
+<porudzbinaStavke ean="4032900102726" nazivArtikla="WINSTON XSPRESSION LONG (BERRY)" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="613" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126494">
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="20.00"/>
+<porudzbinaStavke ean="4032900107882" nazivArtikla="MONTE CARLO AZURE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="20.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100046711" nazivArtikla="Sobranie Refine Black" kolicina="10.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="609" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126493">
+<porudzbinaStavke ean="40331614" nazivArtikla="CAMEL 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="40.00"/>
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100073724" nazivArtikla="CAMEL COMPACT" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900102351" nazivArtikla="CAMEL COMPACT 100s" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="10.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="20.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="10.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="10.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100046773" nazivArtikla="Sobranie Refine White" kolicina="10.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100080357" nazivArtikla="WINSTON 100S BLUE SILVER (1242)" kolicina="10.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="20.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900102726" nazivArtikla="WINSTON XSPRESSION LONG (BERRY)" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="40.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="605" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126492">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100099625" nazivArtikla="CAMEL AZUL 30G" kolicina="10.00"/>
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="40.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="20.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="60.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100046773" nazivArtikla="Sobranie Refine White" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100080388" nazivArtikla="WINSTON 100S SILVER NOVI (1340)" kolicina="20.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="40.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="42138068" nazivArtikla="WINSTON SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="604" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126491">
+<porudzbinaStavke ean="40331614" nazivArtikla="CAMEL 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="30.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="603" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126490">
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100073724" nazivArtikla="CAMEL COMPACT" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100099595" nazivArtikla="CAMEL ORGINAL 30GR" kolicina="10.00"/>
+<porudzbinaStavke ean="90300813" nazivArtikla="LD BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="30.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="20.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100080388" nazivArtikla="WINSTON 100S SILVER NOVI (1340)" kolicina="10.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="60.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="10.00"/>
+<porudzbinaStavke ean="42138068" nazivArtikla="WINSTON SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="40331928" nazivArtikla="WINSTON WHITE" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="20.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="598" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126489">
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="10.00"/>
+<porudzbinaStavke ean="40331928" nazivArtikla="WINSTON WHITE" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="597" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126488">
+<porudzbinaStavke ean="40331614" nazivArtikla="CAMEL 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100053986" nazivArtikla="CAMEL ACTIVATE DOUBLE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100073724" nazivArtikla="CAMEL COMPACT" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900102351" nazivArtikla="CAMEL COMPACT 100s" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="5.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900107882" nazivArtikla="MONTE CARLO AZURE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="20.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100046711" nazivArtikla="Sobranie Refine Black" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100046773" nazivArtikla="Sobranie Refine White" kolicina="5.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100080388" nazivArtikla="WINSTON 100S SILVER NOVI (1340)" kolicina="10.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="60.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="60.00"/>
+<porudzbinaStavke ean="4032900102726" nazivArtikla="WINSTON XSPRESSION LONG (BERRY)" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="596" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126487">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4032900102351" nazivArtikla="CAMEL COMPACT 100s" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="20.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="10.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="10.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="10.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="595" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126486">
+<porudzbinaStavke ean="4033100053986" nazivArtikla="CAMEL ACTIVATE DOUBLE" kolicina="20.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="20.00"/>
+<porudzbinaStavke ean="90300813" nazivArtikla="LD BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="10.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100080388" nazivArtikla="WINSTON 100S SILVER NOVI (1340)" kolicina="20.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="20.00"/>
+<porudzbinaStavke ean="42138068" nazivArtikla="WINSTON SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="40.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="594" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126485">
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="20.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="10.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100080388" nazivArtikla="WINSTON 100S SILVER NOVI (1340)" kolicina="10.00"/>
+<porudzbinaStavke ean="42138068" nazivArtikla="WINSTON SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="593" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126484">
+<porudzbinaStavke ean="4033100053986" nazivArtikla="CAMEL ACTIVATE DOUBLE" kolicina="20.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="20.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="20.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="50.00"/>
+<porudzbinaStavke ean="4033100046773" nazivArtikla="Sobranie Refine White" kolicina="10.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="20.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="40331928" nazivArtikla="WINSTON WHITE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="592" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126483">
+<porudzbinaStavke ean="40331614" nazivArtikla="CAMEL 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100053986" nazivArtikla="CAMEL ACTIVATE DOUBLE" kolicina="20.00"/>
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="4032900107882" nazivArtikla="MONTE CARLO AZURE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="20.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="20.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="50.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="20.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="120.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="20.00"/>
+<porudzbinaStavke ean="42138068" nazivArtikla="WINSTON SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="40.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="591" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126482">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900102351" nazivArtikla="CAMEL COMPACT 100s" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="30.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="20.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="10.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="30.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="30.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="40.00"/>
+<porudzbinaStavke ean="5010175805701" nazivArtikla="SOBRANIE WHITE RUS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100046773" nazivArtikla="Sobranie Refine White" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100080388" nazivArtikla="WINSTON 100S SILVER NOVI (1340)" kolicina="10.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="20.00"/>
+<porudzbinaStavke ean="42138037" nazivArtikla="WINSTON CLASSIC" kolicina="10.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="590" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126481">
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900102351" nazivArtikla="CAMEL COMPACT 100s" kolicina="20.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="40.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="40.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="42138068" nazivArtikla="WINSTON SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="589" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126480">
+<porudzbinaStavke ean="4033100073724" nazivArtikla="CAMEL COMPACT" kolicina="20.00"/>
+<porudzbinaStavke ean="4032900102351" nazivArtikla="CAMEL COMPACT 100s" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="20.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="20.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="10.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="20.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="50.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="20.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="588" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126479">
+<porudzbinaStavke ean="40331614" nazivArtikla="CAMEL 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="20.00"/>
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100073724" nazivArtikla="CAMEL COMPACT" kolicina="5.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100099595" nazivArtikla="CAMEL ORGINAL 30GR" kolicina="30.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="5.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="30.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="20.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="30.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="10.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="20.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="5.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="10.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="40331928" nazivArtikla="WINSTON WHITE" kolicina="5.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="60.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="40.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="587" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126478">
+<porudzbinaStavke ean="4033100053986" nazivArtikla="CAMEL ACTIVATE DOUBLE" kolicina="10.00"/>
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="4032900102351" nazivArtikla="CAMEL COMPACT 100s" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100099595" nazivArtikla="CAMEL ORGINAL 30GR" kolicina="10.00"/>
+<porudzbinaStavke ean="90300813" nazivArtikla="LD BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="40.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="20.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="60.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="60.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="585" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126477">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100053986" nazivArtikla="CAMEL ACTIVATE DOUBLE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100099625" nazivArtikla="CAMEL AZUL 30G" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="30.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="50.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="30.00"/>
+<porudzbinaStavke ean="4032900107882" nazivArtikla="MONTE CARLO AZURE 100S" kolicina="30.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="20.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="10.00"/>
+<porudzbinaStavke ean="46104557" nazivArtikla="SOBRANIE SUPER SL BLACK" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100080357" nazivArtikla="WINSTON 100S BLUE SILVER (1242)" kolicina="10.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="42138068" nazivArtikla="WINSTON SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="30.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="20.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="583" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126476">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100099595" nazivArtikla="CAMEL ORGINAL 30GR" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="30.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="20.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="20.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="50.00"/>
+<porudzbinaStavke ean="5010175805701" nazivArtikla="SOBRANIE WHITE RUS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100046711" nazivArtikla="Sobranie Refine Black" kolicina="10.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="50.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="580" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126475">
+<porudzbinaStavke ean="40331614" nazivArtikla="CAMEL 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100053986" nazivArtikla="CAMEL ACTIVATE DOUBLE" kolicina="20.00"/>
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="5.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="40.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="5.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="10.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100080357" nazivArtikla="WINSTON 100S BLUE SILVER (1242)" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100080388" nazivArtikla="WINSTON 100S SILVER NOVI (1340)" kolicina="5.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="10.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="20.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="50.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="579" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126474">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100053986" nazivArtikla="CAMEL ACTIVATE DOUBLE" kolicina="5.00"/>
+<porudzbinaStavke ean="4032900102351" nazivArtikla="CAMEL COMPACT 100s" kolicina="30.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="20.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="90300806" nazivArtikla="LD RED" kolicina="5.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="10.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="30.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100046773" nazivArtikla="Sobranie Refine White" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100080357" nazivArtikla="WINSTON 100S BLUE SILVER (1242)" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100080388" nazivArtikla="WINSTON 100S SILVER NOVI (1340)" kolicina="5.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="50.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="5.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="5.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="578" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126473">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100053986" nazivArtikla="CAMEL ACTIVATE DOUBLE" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100099625" nazivArtikla="CAMEL AZUL 30G" kolicina="10.00"/>
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100073724" nazivArtikla="CAMEL COMPACT" kolicina="20.00"/>
+<porudzbinaStavke ean="4032900102351" nazivArtikla="CAMEL COMPACT 100s" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="30.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="30.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="30.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="46104557" nazivArtikla="SOBRANIE SUPER SL BLACK" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100080357" nazivArtikla="WINSTON 100S BLUE SILVER (1242)" kolicina="30.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="70.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="10.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="5.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="572" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126472">
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="40.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="10.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="10.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="10.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="571" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126471">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100073724" nazivArtikla="CAMEL COMPACT" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="20.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="20.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="50.00"/>
+<porudzbinaStavke ean="5010175805701" nazivArtikla="SOBRANIE WHITE RUS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100046711" nazivArtikla="Sobranie Refine Black" kolicina="20.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900102726" nazivArtikla="WINSTON XSPRESSION LONG (BERRY)" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="570" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126470">
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="40.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="10.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="20.00"/>
+<porudzbinaStavke ean="5010175805701" nazivArtikla="SOBRANIE WHITE RUS" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100046711" nazivArtikla="Sobranie Refine Black" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100046773" nazivArtikla="Sobranie Refine White" kolicina="20.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="569" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126469">
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="10.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="562" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126468">
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="20.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="557" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126467">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="40.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="40.00"/>
+<porudzbinaStavke ean="50143467" nazivArtikla="SOBRANIE BLACK RUSSIAN" kolicina="20.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100080357" nazivArtikla="WINSTON 100S BLUE SILVER (1242)" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="40.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="548" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126466">
+<porudzbinaStavke ean="40331614" nazivArtikla="CAMEL 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100073724" nazivArtikla="CAMEL COMPACT" kolicina="50.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="50.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="20.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="546" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126465">
+<porudzbinaStavke ean="40331614" nazivArtikla="CAMEL 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100080388" nazivArtikla="WINSTON 100S SILVER NOVI (1340)" kolicina="10.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="40.00"/>
+<porudzbinaStavke ean="42138037" nazivArtikla="WINSTON CLASSIC" kolicina="10.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="20.00"/>
+<porudzbinaStavke ean="4032900102726" nazivArtikla="WINSTON XSPRESSION LONG (BERRY)" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="543" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126464">
+<porudzbinaStavke ean="40331614" nazivArtikla="CAMEL 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="20.00"/>
+<porudzbinaStavke ean="4032900107882" nazivArtikla="MONTE CARLO AZURE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="30.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="30.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="20.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100046711" nazivArtikla="Sobranie Refine Black" kolicina="20.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100080357" nazivArtikla="WINSTON 100S BLUE SILVER (1242)" kolicina="10.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="10.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="50.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="40331928" nazivArtikla="WINSTON WHITE" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900102726" nazivArtikla="WINSTON XSPRESSION LONG (BERRY)" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096297" nazivArtikla="WINSTON XSTYLE LONG SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="540" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126463">
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="10.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="10.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="539" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126462">
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="10.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="10.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="42138037" nazivArtikla="WINSTON CLASSIC" kolicina="10.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="538" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126461">
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="40.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="10.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="10.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="20.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="42138068" nazivArtikla="WINSTON SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="524" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126460">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100099625" nazivArtikla="CAMEL AZUL 30G" kolicina="10.00"/>
+<porudzbinaStavke ean="40329055" nazivArtikla="CAMEL FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="40.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="30.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="40.00"/>
+<porudzbinaStavke ean="4032900107882" nazivArtikla="MONTE CARLO AZURE 100S" kolicina="20.00"/>
+<porudzbinaStavke ean="40329215" nazivArtikla="MONTE CARLO RED" kolicina="10.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="10.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="519" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126459">
+<porudzbinaStavke ean="4033100099595" nazivArtikla="CAMEL ORGINAL 30GR" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="20.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="20.00"/>
+<porudzbinaStavke ean="46104557" nazivArtikla="SOBRANIE SUPER SL BLACK" kolicina="20.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="20.00"/>
+<porudzbinaStavke ean="46111739" nazivArtikla="WINSTON COOL XSPRESSION" kolicina="20.00"/>
+<porudzbinaStavke ean="40331928" nazivArtikla="WINSTON WHITE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="514" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126458">
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100073724" nazivArtikla="CAMEL COMPACT" kolicina="5.00"/>
+<porudzbinaStavke ean="4032900102351" nazivArtikla="CAMEL COMPACT 100s" kolicina="5.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="30.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="40.00"/>
+<porudzbinaStavke ean="46085290" nazivArtikla="SOBRANIE BLACK KS" kolicina="10.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100046773" nazivArtikla="Sobranie Refine White" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100080388" nazivArtikla="WINSTON 100S SILVER NOVI (1340)" kolicina="30.00"/>
+<porudzbinaStavke ean="42138037" nazivArtikla="WINSTON CLASSIC" kolicina="5.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="510" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126457">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100099595" nazivArtikla="CAMEL ORGINAL 30GR" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="30.00"/>
+<porudzbinaStavke ean="42138242" nazivArtikla="MONTE CARLO 100S RED" kolicina="20.00"/>
+<porudzbinaStavke ean="4032900107882" nazivArtikla="MONTE CARLO AZURE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="20.00"/>
+<porudzbinaStavke ean="46104557" nazivArtikla="SOBRANIE SUPER SL BLACK" kolicina="10.00"/>
+<porudzbinaStavke ean="42138105" nazivArtikla="WINSTON SUP. SLIMS BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="509" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126456">
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100046711" nazivArtikla="Sobranie Refine Black" kolicina="20.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100080357" nazivArtikla="WINSTON 100S BLUE SILVER (1242)" kolicina="10.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="507" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126455">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="10.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="4600051006318" nazivArtikla="LD VIOLET SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="42138068" nazivArtikla="WINSTON SILVER" kolicina="10.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="30.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="10.00"/>
+</porudzbinaDobavljac>
+<porudzbinaDobavljac datum="22.04.2019" storeID="20" pibKupac="103983593" sifraObjekta="01021" IDPorudzbenice="126454">
+<porudzbinaStavke ean="40329116" nazivArtikla="CAMEL 100S FILTERS" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100053986" nazivArtikla="CAMEL ACTIVATE DOUBLE" kolicina="50.00"/>
+<porudzbinaStavke ean="40331591" nazivArtikla="CAMEL BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100073724" nazivArtikla="CAMEL COMPACT" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100013348" nazivArtikla="LD BLUE 100S" kolicina="5.00"/>
+<porudzbinaStavke ean="8606100129003" nazivArtikla="LD CLUB LONG BLUE" kolicina="20.00"/>
+<porudzbinaStavke ean="8606100129034" nazivArtikla="LD CLUB LONG SILVER" kolicina="20.00"/>
+<porudzbinaStavke ean="4600051006332" nazivArtikla="LD PINK SUPER SLIM" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100013317" nazivArtikla="LD RED 100S" kolicina="20.00"/>
+<porudzbinaStavke ean="4032900107936" nazivArtikla="MONTE CARLO BLUE 100S" kolicina="20.00"/>
+<porudzbinaStavke ean="46085351" nazivArtikla="SOBRANIE GOLD KS" kolicina="50.00"/>
+<porudzbinaStavke ean="46104557" nazivArtikla="SOBRANIE SUPER SL BLACK" kolicina="20.00"/>
+<porudzbinaStavke ean="46104564" nazivArtikla="SOBRANIE SUPER SL PINK" kolicina="20.00"/>
+<porudzbinaStavke ean="5010175805701" nazivArtikla="SOBRANIE WHITE RUS" kolicina="20.00"/>
+<porudzbinaStavke ean="4033100046711" nazivArtikla="Sobranie Refine Black" kolicina="5.00"/>
+<porudzbinaStavke ean="42138235" nazivArtikla="WINSTON 100S BLUE" kolicina="5.00"/>
+<porudzbinaStavke ean="4033100080357" nazivArtikla="WINSTON 100S BLUE SILVER (1242)" kolicina="5.00"/>
+<porudzbinaStavke ean="42138228" nazivArtikla="WINSTON 100S red" kolicina="60.00"/>
+<porudzbinaStavke ean="42138051" nazivArtikla="WINSTON BLUE" kolicina="60.00"/>
+<porudzbinaStavke ean="42138037" nazivArtikla="WINSTON CLASSIC" kolicina="20.00"/>
+<porudzbinaStavke ean="42138112" nazivArtikla="WINSTON SUP. SLIMS SILVER" kolicina="60.00"/>
+<porudzbinaStavke ean="40331928" nazivArtikla="WINSTON WHITE" kolicina="5.00"/>
+<porudzbinaStavke ean="4032900102726" nazivArtikla="WINSTON XSPRESSION LONG (BERRY)" kolicina="20.00"/>
+<porudzbinaStavke ean="46103284" nazivArtikla="WINSTON XSTYLE BLUE" kolicina="60.00"/>
+<porudzbinaStavke ean="4033100096266" nazivArtikla="WINSTON XSTYLE LONG BLUE" kolicina="60.00"/>
+<porudzbinaStavke ean="46103291" nazivArtikla="WINSTON XSTYLE SILVER" kolicina="50.00"/>
+<porudzbinaStavke ean="4033100092046" nazivArtikla="WINSTON XSTYLE SUPERSLIMS BLUE" kolicina="10.00"/>
+<porudzbinaStavke ean="4033100092077" nazivArtikla="WINSTON XSTYLE SUPERSLIMS SILVER" kolicina="20.00"/>
+</porudzbinaDobavljac>
+</porudzbine>
