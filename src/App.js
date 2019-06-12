@@ -4,7 +4,6 @@ import logo from "./logo.svg";
 import "./App.css";
 import parser, { j2xParser as ToXMLParser } from "fast-xml-parser";
 import he from "he";
-import { save } from "save-file";
 const { ipcRenderer } = window;
 
 const options = {

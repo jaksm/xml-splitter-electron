@@ -1,5 +1,5 @@
 {
-  "name": "xml-parser",
+  "name": "xml-splitter",
   "version": "0.1.0",
   "private": true,
   "author": "Jaksa Malisic",
@@ -38,7 +38,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "electron-dev": "concurrently \"BROWSER=none yarn start\" \"wait-on http://localhost:3000 && electron .\"",
-    "electron-pack": "build -wl",
+    "electron-pack": "build -w",
     "preelectron-pack": "yarn build"
   },
   "eslintConfig": {
