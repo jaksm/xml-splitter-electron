@@ -38,8 +38,10 @@ const App = () => {
         const results = json.porudzbine.porudzbinaDobavljac;
         // transformation logic
         const xmlContents = results.map(res => {
+          res.sifraObjekta = `0${res.sifraObjekta}`;
+          console.log(res);
           return {
-            fileName: `${file.name.split(".xml")[0]}_${res.IDPorudzbenice}.xml`,
+            fileName: `${file.name.split(".xml")[0]}_${res.storeID}.xml`,
             content: `<?xml version="1.0" encoding="windows-1250" standalone="no"?>${toXmlParser.parse({
               porudzbine: { porudzbineDobavljac: res }
             })}`
