@@ -48,8 +48,7 @@ const App = () => {
             })}`
           };
         });
-        xmlContents.map(({ content }) => content).forEach(x => console.log(x));
-        // ipcRenderer.send("request-xml-export", xmlContents);
+        ipcRenderer.send("request-xml-export", xmlContents);
       } else {
         console.error("XML not valid");
       }
