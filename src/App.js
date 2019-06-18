@@ -16,6 +16,8 @@ const options = {
   parseNodeValue: true,
   parseAttributeValue: true,
   trimValues: true,
+  format: true,
+  indentBy: "  ",
   // cdataTagName: "__cdata", //default is 'false'
   // cdataPositionChar: "\\c",
   // localeRange: "", //To support non english character in tag/attribute values.
@@ -39,15 +41,15 @@ const App = () => {
         // transformation logic
         const xmlContents = results.map(res => {
           res.sifraObjekta = `0${res.sifraObjekta}`;
-          console.log(res);
           return {
             fileName: `${file.name.split(".xml")[0]}_${res.storeID}.xml`,
-            content: `<?xml version="1.0" encoding="windows-1250" standalone="no"?>${toXmlParser.parse({
+            content: `<?xml version="1.0" encoding="windows-1250" standalone="no"?> \n${toXmlParser.parse({
               porudzbine: { porudzbineDobavljac: res }
             })}`
           };
         });
-        ipcRenderer.send("request-xml-export", xmlContents);
+        xmlContents.map(({ content }) => content).forEach(x => console.log(x));
+        // ipcRenderer.send("request-xml-export", xmlContents);
       } else {
         console.error("XML not valid");
       }
