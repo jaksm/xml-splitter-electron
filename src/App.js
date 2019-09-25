@@ -16,7 +16,7 @@ const options = {
   parseNodeValue: true,
   parseAttributeValue: true,
   trimValues: true,
-  format: true,
+  format: false,
   indentBy: "  ",
   // cdataTagName: "__cdata", //default is 'false'
   // cdataPositionChar: "\\c",
