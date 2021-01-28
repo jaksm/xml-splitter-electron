@@ -25,7 +25,7 @@
     "he": "latest"
   },
   "devDependencies": {
-    "electron": "^5.0.3",
+    "electron": "^9.4.0",
     "electron-builder": "^20.43.0",
     "wait-on": "^3.2.0",
     "concurrently": "^4.1.0",
